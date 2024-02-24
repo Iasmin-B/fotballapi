@@ -1,0 +1,1078 @@
+[
+  {
+    "id": 462033,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-07T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_1",
+    "group": null,
+    "lastUpdated": "2024-02-07T15:21:25Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "HOME_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 3,
+        "awayTeam": 2
+      },
+      "halfTime": {
+        "homeTeam": 2,
+        "awayTeam": 1
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 5162,
+      "name": "Academia Puerto Cabello"
+    },
+    "awayTeam": {
+      "id": 5190,
+      "name": "Defensor SC"
+    },
+    "referees": [
+      {
+        "id": 22030,
+        "name": "Carlos Ortega",
+        "role": "REFEREE",
+        "nationality": "Colombia"
+      }
+    ]
+  },
+  {
+    "id": 462034,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-08T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_1",
+    "group": null,
+    "lastUpdated": "2024-02-09T01:05:55Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "HOME_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 1,
+        "awayTeam": 0
+      },
+      "halfTime": {
+        "homeTeam": 1,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4260,
+      "name": "Club Aurora"
+    },
+    "awayTeam": {
+      "id": 5682,
+      "name": "FBC Melgar"
+    },
+    "referees": [
+      {
+        "id": 206954,
+        "name": "Paulo Zanovelli da Silva",
+        "role": "REFEREE",
+        "nationality": "Brazil"
+      }
+    ]
+  },
+  {
+    "id": 462035,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-09T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_1",
+    "group": null,
+    "lastUpdated": "2024-02-09T15:21:28Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "HOME_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 1,
+        "awayTeam": 0
+      },
+      "halfTime": {
+        "homeTeam": 0,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4529,
+      "name": "SD Aucas"
+    },
+    "awayTeam": {
+      "id": 5188,
+      "name": "Club Nacional"
+    },
+    "referees": [
+      {
+        "id": 23903,
+        "name": "Piero Maza",
+        "role": "REFEREE",
+        "nationality": "Chile"
+      }
+    ]
+  },
+  {
+    "id": 462036,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-14T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "stage": "ROUND_1",
+    "group": null,
+    "lastUpdated": "2024-02-14T15:21:26Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "AWAY_TEAM",
+      "duration": "PENALTY_SHOOTOUT",
+      "fullTime": {
+        "homeTeam": 3,
+        "awayTeam": 4
+      },
+      "halfTime": {
+        "homeTeam": 1,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": 2,
+        "awayTeam": 4
+      }
+    },
+    "homeTeam": {
+      "id": 5190,
+      "name": "Defensor SC"
+    },
+    "awayTeam": {
+      "id": 5162,
+      "name": "Academia Puerto Cabello"
+    },
+    "referees": []
+  },
+  {
+    "id": 462037,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-15T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "stage": "ROUND_1",
+    "group": null,
+    "lastUpdated": "2024-02-15T15:21:31Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "DRAW",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 1,
+        "awayTeam": 1
+      },
+      "halfTime": {
+        "homeTeam": 1,
+        "awayTeam": 1
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 5682,
+      "name": "FBC Melgar"
+    },
+    "awayTeam": {
+      "id": 4260,
+      "name": "Club Aurora"
+    },
+    "referees": []
+  },
+  {
+    "id": 462038,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-16T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "stage": "ROUND_1",
+    "group": null,
+    "lastUpdated": "2024-02-16T20:21:00Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "HOME_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 3,
+        "awayTeam": 0
+      },
+      "halfTime": {
+        "homeTeam": 2,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 5188,
+      "name": "Club Nacional"
+    },
+    "awayTeam": {
+      "id": 4529,
+      "name": "SD Aucas"
+    },
+    "referees": []
+  },
+  {
+    "id": 462045,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-20T22:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-21T20:21:16Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "AWAY_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 1,
+        "awayTeam": 2
+      },
+      "halfTime": {
+        "homeTeam": 1,
+        "awayTeam": 2
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 5176,
+      "name": "Portuguesa FC"
+    },
+    "awayTeam": {
+      "id": 4460,
+      "name": "CD Palestino"
+    },
+    "referees": []
+  },
+  {
+    "id": 462039,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-21T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-21T15:21:22Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "DRAW",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 0,
+        "awayTeam": 0
+      },
+      "halfTime": {
+        "homeTeam": 0,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4445,
+      "name": "Rionegro Águilas"
+    },
+    "awayTeam": {
+      "id": 4286,
+      "name": "RB Bragantino"
+    },
+    "referees": []
+  },
+  {
+    "id": 462041,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-21T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T05:21:21Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "HOME_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 6,
+        "awayTeam": 1
+      },
+      "halfTime": {
+        "homeTeam": 1,
+        "awayTeam": 1
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 7865,
+      "name": "Club Always Ready"
+    },
+    "awayTeam": {
+      "id": 5347,
+      "name": "CS Cristal"
+    },
+    "referees": [
+      {
+        "id": 29389,
+        "name": "Alexis Herrera",
+        "role": "REFEREE",
+        "nationality": "Venezuela"
+      }
+    ]
+  },
+  {
+    "id": 462044,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-21T22:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T15:21:27Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "AWAY_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 0,
+        "awayTeam": 2
+      },
+      "halfTime": {
+        "homeTeam": 0,
+        "awayTeam": 2
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 5162,
+      "name": "Academia Puerto Cabello"
+    },
+    "awayTeam": {
+      "id": 7055,
+      "name": "Club Nacional de Football"
+    },
+    "referees": [
+      {
+        "id": 11173,
+        "name": "Braulio da Silva Machado",
+        "role": "REFEREE",
+        "nationality": "Brazil"
+      }
+    ]
+  },
+  {
+    "id": 462040,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-22T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T11:41:40Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "HOME_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 1,
+        "awayTeam": 0
+      },
+      "halfTime": {
+        "homeTeam": 0,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 5188,
+      "name": "Club Nacional"
+    },
+    "awayTeam": {
+      "id": 4438,
+      "name": "CDC Atlético Nacional"
+    },
+    "referees": []
+  },
+  {
+    "id": 462046,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-22T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T15:21:27Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "DRAW",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 1,
+        "awayTeam": 1
+      },
+      "halfTime": {
+        "homeTeam": 0,
+        "awayTeam": 1
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4260,
+      "name": "Club Aurora"
+    },
+    "awayTeam": {
+      "id": 1770,
+      "name": "Botafogo FR"
+    },
+    "referees": []
+  },
+  {
+    "id": 462043,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-22T22:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-24T10:21:25Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "DRAW",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 1,
+        "awayTeam": 1
+      },
+      "halfTime": {
+        "homeTeam": 1,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 10359,
+      "name": "Sportivo Trinidense"
+    },
+    "awayTeam": {
+      "id": 4524,
+      "name": "CSCyD El Nacional"
+    },
+    "referees": [
+      {
+        "id": 58946,
+        "name": "Roberto Pérez",
+        "role": "REFEREE",
+        "nationality": "Peru"
+      }
+    ]
+  },
+  {
+    "id": 462042,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-23T00:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-23T05:21:22Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": "AWAY_TEAM",
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": 0,
+        "awayTeam": 1
+      },
+      "halfTime": {
+        "homeTeam": 0,
+        "awayTeam": 0
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 2079,
+      "name": "CD Godoy Cruz Antonio Tomba"
+    },
+    "awayTeam": {
+      "id": 4410,
+      "name": "CSD Colo-Colo"
+    },
+    "referees": []
+  },
+  {
+    "id": 462053,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-27T22:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T11:41:36Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4460,
+      "name": "CD Palestino"
+    },
+    "awayTeam": {
+      "id": 5176,
+      "name": "Portuguesa FC"
+    },
+    "referees": []
+  },
+  {
+    "id": 462047,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-28T00:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T11:41:34Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4286,
+      "name": "RB Bragantino"
+    },
+    "awayTeam": {
+      "id": 4445,
+      "name": "Rionegro Águilas"
+    },
+    "referees": []
+  },
+  {
+    "id": 462049,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-28T00:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T11:41:35Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 5347,
+      "name": "CS Cristal"
+    },
+    "awayTeam": {
+      "id": 7865,
+      "name": "Club Always Ready"
+    },
+    "referees": []
+  },
+  {
+    "id": 462052,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-28T22:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-14T20:21:14Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 7055,
+      "name": "Club Nacional de Football"
+    },
+    "awayTeam": {
+      "id": 5162,
+      "name": "Academia Puerto Cabello"
+    },
+    "referees": []
+  },
+  {
+    "id": 462048,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-29T00:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T11:41:32Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4438,
+      "name": "CDC Atlético Nacional"
+    },
+    "awayTeam": {
+      "id": 5188,
+      "name": "Club Nacional"
+    },
+    "referees": []
+  },
+  {
+    "id": 462054,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-29T00:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-15T20:21:27Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 1770,
+      "name": "Botafogo FR"
+    },
+    "awayTeam": {
+      "id": 4260,
+      "name": "Club Aurora"
+    },
+    "referees": []
+  },
+  {
+    "id": 462051,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-02-29T22:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T11:41:30Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4524,
+      "name": "CSCyD El Nacional"
+    },
+    "awayTeam": {
+      "id": 10359,
+      "name": "Sportivo Trinidense"
+    },
+    "referees": []
+  },
+  {
+    "id": 462050,
+    "season": {
+      "id": 1644,
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-27",
+      "currentMatchday": 2
+    },
+    "utcDate": "2024-03-01T00:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 2,
+    "stage": "ROUND_2",
+    "group": null,
+    "lastUpdated": "2024-02-22T11:41:29Z",
+    "odds": {
+      "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+    },
+    "score": {
+      "winner": null,
+      "duration": "REGULAR",
+      "fullTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "halfTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "extraTime": {
+        "homeTeam": null,
+        "awayTeam": null
+      },
+      "penalties": {
+        "homeTeam": null,
+        "awayTeam": null
+      }
+    },
+    "homeTeam": {
+      "id": 4410,
+      "name": "CSD Colo-Colo"
+    },
+    "awayTeam": {
+      "id": 2079,
+      "name": "CD Godoy Cruz Antonio Tomba"
+    },
+    "referees": []
+  }
+]

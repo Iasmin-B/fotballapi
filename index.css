@@ -1,0 +1,26 @@
+.league-button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.league-button:hover {
+  background-color: #e0e0e0;
+}
+
+.league-button.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+#league-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
