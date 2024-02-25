@@ -55,6 +55,14 @@ async function importMatchesForLeague(leagueCode) {
   }
 }
 
+leagues.forEach((league) => {
+  const button = document.createElement("button");
+  button.textContent = league.name;
+  button.setAttribute("class", "league-button");
+  button.setAttribute("data-league-code", league.code);
+  leagueButtonsContainer.appendChild(button);
+});
+
 // Lista cu codurile ligilor pentru care vrei să obții meciuri
 const leagues = [
   "BL1",

@@ -1,26 +1,69 @@
-.league-button {
-  margin: 5px;
-  padding: 10px 15px;
-  font-size: 16px;
-  cursor: pointer;
-  border: none;
-  border-radius: 5px;
-  background-color: #f0f0f0;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-.league-button:hover {
-  background-color: #e0e0e0;
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
 }
 
-.league-button.active {
-  background-color: #4caf50;
-  color: white;
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 #league-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-bottom: 20px;
-  margin-top: 50px;
+  text-align: center;
+  padding: 10px;
+}
+
+.league-button {
+  margin: 10px;
+  padding: 15px 20px;
+  font-size: 14px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 70%; /* Reducem lățimea tabelului */
+  max-width: 800px; /* Setăm o lățime maximă */
+  margin: auto;
+  margin-top: 100px;
+}
+
+/* Restul stilurilor pentru th și td rămân neschimbate */
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 16px; /* Reducem padding-ul pentru celule */
+  margin: 0; /* Eliminăm margin-ul pentru celule */
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.sidebar {
+  position: fixed;
+  top: 120px;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+#matches-table {
+  margin-top: 100px;
+  margin-left: 220px;
 }

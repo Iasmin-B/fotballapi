@@ -5,111 +5,63 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Meciuri Fotbal</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-      .header {
-        background-color: #333;
-        color: #fff;
-        padding: 20px;
-        text-align: center;
-      }
-      .footer {
-        background-color: #333;
-        color: #fff;
-        padding: 10px;
-        text-align: center;
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-      }
-      #league-buttons {
-        text-align: center;
-      }
-      .league-button {
-        margin: 10px;
-        padding: 15px 20px;
-        font-size: 18px;
-      }
-      table {
-        border-collapse: collapse;
-        margin: auto;
-      }
-      th,
-      td {
-        border: 1px solid #dddddd;
-        text-align: left;
-        padding: 8px;
-      }
-      th {
-        background-color: #f2f2f2;
-      }
-    </style>
   </head>
   <body>
     <div class="header">
       <h1>Meciuri Fotbal</h1>
     </div>
 
-    <div id="league-buttons">
-      <!-- Buton pentru fiecare ligă -->
-      <button class="league-button" id="WC-button" data-league-code="WC">
-        FIFA World Cup
-      </button>
-      <button class="league-button" id="CL-button" data-league-code="CL">
-        UEFA Champions League
-      </button>
-      <button class="league-button" id="BL1-button" data-league-code="BL1">
-        Bundesliga
-      </button>
-      <button class="league-button" id="DED-button" data-league-code="DED">
-        Eredivisie
-      </button>
-      <button class="league-button" id="BSA-button" data-league-code="BSA">
-        Campeonato Brasileiro Série A
-      </button>
-      <button class="league-button" id="PD-button" data-league-code="PD">
-        Primera Division
-      </button>
-      <button class="league-button" id="FL1-button" data-league-code="FL1">
-        Ligue 1
-      </button>
-      <button class="league-button" id="ELC-button" data-league-code="ELC">
-        Championship
-      </button>
-      <button class="league-button" id="PPL-button" data-league-code="PPL">
-        Primeira Liga
-      </button>
-      <button class="league-button" id="EC-button" data-league-code="EC">
-        European Championship
-      </button>
-      <button class="league-button" id="SA-button" data-league-code="SA">
-        Serie A
-      </button>
-      <button class="league-button" id="PL-button" data-league-code="PL">
-        Premier League
-      </button>
-      <button class="league-button" id="CLI-button" data-league-code="CLI">
-        Copa Libertadores
-      </button>
+    <div class="sidebar">
+      <div id="league-buttons">
+        <button class="league-button" data-league-code="WC">
+          FIFA World Cup
+        </button>
+        <button class="league-button" data-league-code="CL">
+          UEFA Champions League
+        </button>
+        <button class="league-button" data-league-code="BL1">Bundesliga</button>
+        <button class="league-button" data-league-code="DED">Eredivisie</button>
+        <button class="league-button" data-league-code="BSA">
+          Campeonato Brasileiro Série A
+        </button>
+        <button class="league-button" data-league-code="PD">
+          Primera Division
+        </button>
+        <button class="league-button" data-league-code="FL1">Ligue 1</button>
+        <button class="league-button" data-league-code="ELC">
+          Championship
+        </button>
+        <button class="league-button" data-league-code="PPL">
+          Primeira Liga
+        </button>
+        <button class="league-button" data-league-code="EC">
+          European Championship
+        </button>
+        <button class="league-button" data-league-code="SA">Serie A</button>
+        <button class="league-button" data-league-code="PL">
+          Premier League
+        </button>
+        <button class="league-button" data-league-code="CLI">
+          Copa Libertadores
+        </button>
+      </div>
     </div>
 
-    <table id="matches-table" style="display: none">
-      <thead>
-        <tr>
-          <th>Data</th>
-          <th>Echipa gazdă</th>
-          <th>Echipa oaspete</th>
-          <th>Scor</th>
-        </tr>
-      </thead>
-      <tbody id="matches-table-body">
-        <!-- Aici vor fi afișate meciurile -->
-      </tbody>
-    </table>
+    <div id="matches-table" style="display: none">
+      <table>
+        <thead>
+          <tr>
+            <th>Data</th>
+            <th>Echipa gazdă</th>
+            <th>Echipa oaspete</th>
+            <th>Scor</th>
+          </tr>
+        </thead>
+        <tbody id="matches-table-body">
+          <!-- Aici vor fi afișate meciurile -->
+        </tbody>
+      </table>
+    </div>
 
     <div class="footer">
       <p>&copy; 2024 Meciuri Fotbal</p>
